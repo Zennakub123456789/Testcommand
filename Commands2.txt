@@ -1,1 +1,18 @@
-Test
+🌱 Grow a Garden Stock - 20:26
+
+__**Seeds**__
+🌱 Carrot x0
+🌱 Blueberry x0
+🌱 Strawberry x0
+🌱 Tomato x0
+🌱 Green Apple x0
+🌱 Avocado x0
+
+__**Gears**__
+🛠️ Trowel x0
+🛠️ Recall Wrench x0
+🛠️ Watering Can x0
+🛠️ Magnifying Glass x0
+🛠️ Harvest Tool x0
+🛠️ Favorite Tool x0
+🛠️ Cleaning Spray x0
