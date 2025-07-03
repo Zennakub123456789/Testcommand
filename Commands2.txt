@@ -1,13 +1,13 @@
-🌱 Grow a Garden Stock - 13:44
+🌱 Grow a Garden Stock - 13:49
 
 __**Seeds**__
-🌱 Carrot x7
-🌱 Blueberry x4
-🌱 Strawberry x3
-🌱 Tomato x3
+🌱 Carrot x25
+🌱 Blueberry x1
+🌱 Strawberry x4
+🌱 Tomato x1
 
 __**Gears**__
-🛠️ Harvest Tool x2
+🛠️ Harvest Tool x3
 🛠️ Recall Wrench x3
 🛠️ Favorite Tool x2
-🛠️ Cleaning Spray x3
+🛠️ Cleaning Spray x2
